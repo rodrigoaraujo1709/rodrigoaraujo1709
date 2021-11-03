@@ -2,12 +2,12 @@
 
 - 🌱 Estudando C# | dot.net | .Net Core | API | MVC | Testes automatizados com C# e Selenium
 - 🤔 Quem quiser companhia pra estudar junto ou conversar sobre as experiências, estou a disposição!
-- 📫 rodrigoaraujo1709@gmail.com | https://www.linkedin.com/in/rodrigo-de-araujo-leite-pereira-32b07644/
+- 📫 rodrigoaraujo1709@gmail.com | https://www.linkedin.com/in/rodrigo-de-araujo-leite-pereira-32b07644/ | Discord - RodrigoAraujo1709#9990
 
 <div align="center">
   <a href="https://github.com/rodrigoaraujo1709">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoaraujo1709&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoaraujo1709&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigoaraujo1709&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoaraujo1709&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
