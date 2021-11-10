@@ -2,7 +2,7 @@
 
 - 🌱 Estudando C# | dot.net | .Net Core | API | MVC | Testes automatizados com C# e Selenium
 - 🤔 Quem quiser companhia pra estudar junto ou conversar sobre as experiências, estou a disposição!
-- 📫 rodrigoaraujo1709@gmail.com | https://www.linkedin.com/in/rodrigo-de-araujo-leite-pereira-32b07644/ | Discord - RodrigoAraujo1709#9990
+- 📫 rodrigoaraujo1709@gmail.com | https://www.linkedin.com/in/rodrigoaraujo1709 | Discord - RodrigoAraujo1709#9990
 
 <div align="center">
   <a href="https://github.com/rodrigoaraujo1709">
@@ -21,6 +21,6 @@
   
   <div> 
   <a href = "mailto:rodrigoaraujo1709@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-de-araujo-leite-pereira-32b07644/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigoaraujo1709/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
     
